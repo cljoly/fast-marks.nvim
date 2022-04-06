@@ -1,4 +1,7 @@
 # marks.nvim
+
+> This is a fork of https://github.com/chentau/marks.nvim, removing some features to make it much faster to start.
+
 A better user experience for interacting with and manipulating Vim marks.
 Requires Neovim 0.5+.
 
